@@ -42,10 +42,10 @@
 		607FACE51AFB9204008FA782 /* myTestPod_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myTestPod_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		D12D8247EF1E82BB56CC2347 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		D12D8247EF1E82BB56CC2347 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		DB20C19AA4AAE9D11938F754 /* Pods_myTestPod_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_myTestPod_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DBD79CF1EB61A7448A501B36 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		F6E3E452F2D5DF9DA09EA049 /* myTestPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = myTestPod.podspec; path = ../myTestPod.podspec; sourceTree = "<group>"; };
+		DBD79CF1EB61A7448A501B36 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F6E3E452F2D5DF9DA09EA049 /* myTestPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = myTestPod.podspec; path = ../myTestPod.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		F981B54F5AE092E29A8F77C3 /* Pods-myTestPod_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-myTestPod_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-myTestPod_Example/Pods-myTestPod_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
